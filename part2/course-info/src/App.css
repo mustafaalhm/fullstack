@@ -1,0 +1,16 @@
+li{
+  color: #272424;
+  font-size: 1rem;
+  text-decoration: none;
+  list-style: none;
+}
+li span{
+  font-weight: bold;
+}
+#total{
+  font-weight: bold;
+}
+#total{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
